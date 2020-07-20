@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Ranchers&display=swap");
+
+body {
+  background: ;
+}
+#header {
+  text-align: center;
+  background: white;
+  font-family: "Ranchers", cursive;
+  padding: 3px;
+  margin: 0; 
+}
+#subheader {
+  font-size: 25px;
+}
+#resultsSection {
+  background: white;
+  padding: 20px;
+}
+#mainBody {
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  padding: 10px;
+}
+span {
+  font-style: italic;
+}
+
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
